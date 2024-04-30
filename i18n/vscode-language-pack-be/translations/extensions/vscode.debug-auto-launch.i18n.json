@@ -21,7 +21,7 @@
 			"Debug Auto Attach": "Аўтаматычнае далучэнне адладкі",
 			"Disabled": "Адключана",
 			"Only With Flag": "Толькі з сцягам",
-			"Only auto attach when the `--inspect` flag is given": "Аўтаматычнае далучэнне выконваецца толькі пры наяўнасці сцяга `--inspect`.",
+			"Only auto attach when the `--inspect` flag is given": "Аўтаматычнае далучэнне выконваецца толькі пры наяўнасці аргумента `--inspect`.",
 			"Re-enable auto attach": "Паўторна ўключыць аўтаматычнае далучэнне",
 			"Smart": "Інтэлектуальны рэжым",
 			"Temporarily disable auto attach in this session": "Часова адключыць аўтаматычнае далучэнне ў гэтым сеансе",
